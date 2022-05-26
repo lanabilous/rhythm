@@ -596,6 +596,7 @@ li {
   font-size: 18px;
   line-height: 1.5;
   letter-spacing: 0.08em;
+  margin-bottom: 10px;
 }
 .item-why__icon:not(:last-child) {
   margin-bottom: 12px;
