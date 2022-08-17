@@ -984,3 +984,18 @@ li {
     padding-top: 50px;
   }
 }
+/* scroll progress */
+#reading-progress {
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+  top: 0;
+  left: 0;
+}
+#reading-progress-fill {
+  height: 4px;
+  width: 0;
+  transition: width 100ms ease;
+  background-color: #ff6428;
+}
+/* scroll progress */
